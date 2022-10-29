@@ -4,6 +4,8 @@
 
 Версия: 1.4.10
 
+Подробнее о самом плагине: https://inwebpress.com/nastrojka-pisem-woocommerce/
+
 ## Инструкция
 
 Загрузите файл
