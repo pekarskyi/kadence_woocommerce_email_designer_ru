@@ -1,0 +1,1943 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadence WooCommerce Email Designer\n"
+"POT-Creation-Date: 2020-03-02 11:58-0700\n"
+"PO-Revision-Date: 2020-10-13 02:52+0300\n"
+"Last-Translator: Николай Пекарский <dizer7@gmail.com>\n"
+"Language-Team: Николай Пекарский <dizer7@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;"
+"_ex:1,2c;_n:1,2;esc_attr_x:1,2c;_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.3; wp-5.5.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-customizer-kwdimportexport-control.php:16
+#: includes/class-customizer-kwdimportexport-control.php:21
+msgid "Export"
+msgstr "Экспорт"
+
+#: includes/class-customizer-kwdimportexport-control.php:19
+msgid ""
+"Click the button below to export the customization settings for this plugin."
+msgstr "Нажмите на кнопку ниже, чтобы экспортировать настройки плагина."
+
+#: includes/class-customizer-kwdimportexport-control.php:26
+#: includes/class-customizer-kwdimportexport-control.php:36
+msgid "Import"
+msgstr "Импорт"
+
+#: includes/class-customizer-kwdimportexport-control.php:29
+msgid "Upload a file to import customization settings for this plugin."
+msgstr "Загрузите файл c настройками плагина."
+
+#: includes/class-customizer-kwdimportexport-control.php:35
+msgid "Uploading..."
+msgstr "Загрузка..."
+
+#: includes/class-customizer-kwdsendemail-control.php:21
+msgid "Settings must be saved to send preview email."
+msgstr "Настройки должны быть сохранены для отправки тестового письма."
+
+#: includes/class-customizer-kwdsendemail-control.php:22
+msgid "Send Email"
+msgstr "Отправить письмо"
+
+#: includes/class-customizer-kwdsendemail-control.php:23
+msgid ""
+"Some emails will not work correctly with the mockup order. It is best to use "
+"a real order for sending preview emails."
+msgstr ""
+"Некоторые письма не будут работать правильно с примером заказа. Лучше всего "
+"использовать реальный заказ для отправки тестовых писем."
+
+#: includes/class-customizer-kwdtemplateload-control.php:23
+#: includes/class-customizer-kwdtemplateload-control.php:37
+msgid "Load Template"
+msgstr "Загрузить шаблон"
+
+#: includes/class-customizer-kwdtemplateload-control.php:36
+msgid "Loading and Saving..."
+msgstr "Загрузка и сохранение..."
+
+#: includes/class-customizer-repeater-control.php:29
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+#: includes/class-customizer-repeater-control.php:34
+msgid "Customizer Repeater"
+msgstr ""
+
+#: includes/class-customizer-repeater-control.php:200
+#: includes/class-customizer-repeater-control.php:252
+msgid "Title"
+msgstr "Наименование"
+
+#: includes/class-customizer-repeater-control.php:207
+#: includes/class-customizer-repeater-control.php:260
+msgid "Link"
+msgstr "Ссылка"
+
+#: includes/class-customizer-repeater-control.php:221
+#: includes/class-customizer-repeater-control.php:268
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: includes/class-customizer-repeater-control.php:309
+msgid "Choose a Bundled Icon"
+msgstr "Выберите иконку"
+
+#: includes/class-customizer-repeater-control.php:331
+#: includes/class-customizer-repeater-control.php:345
+msgid "Custom Upload Icon"
+msgstr "Загрузите иконку"
+
+#: includes/class-customizer-repeater-control.php:334
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: includes/class-customizer-repeater-control.php:341
+msgid "Social Image Source"
+msgstr "Источник изображения"
+
+#: includes/class-customizer-repeater-control.php:344
+msgid "Bundled Icon"
+msgstr "Набор иконок"
+
+#: includes/class-customizer-repeater-control.php:346
+#: includes/class-kadence-woomail-settings.php:1857
+#: includes/class-kadence-woomail-settings.php:1898
+msgid "None"
+msgstr "Ничего"
+
+#: includes/class-customizer-repeater-control.php:353
+msgid "Bundled Icon Color"
+msgstr "Цвет иконки"
+
+#: includes/class-customizer-repeater-control.php:356
+msgid "Black"
+msgstr "Черная"
+
+#: includes/class-customizer-repeater-control.php:357
+msgid "White"
+msgstr "Белая"
+
+#: includes/class-customizer-repeater-control.php:358
+msgid "Gray"
+msgstr "Серая"
+
+#: includes/class-kadence-woomail-customizer.php:209
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/class-kadence-woomail-customizer.php:211
+msgid "Saved"
+msgstr "Сохранено"
+
+#: includes/class-kadence-woomail-customizer.php:266
+msgid "WooCommerce Emails"
+msgstr "Письма WooCommerce"
+
+#: includes/class-kadence-woomail-customizer.php:377
+msgid "Reset"
+msgstr "Сброс"
+
+#: includes/class-kadence-woomail-customizer.php:378
+msgid "Woocommerce Emails"
+msgstr "Письма WooCommerce"
+
+#: includes/class-kadence-woomail-customizer.php:379
+msgid "Are you sure you want to send an email?"
+msgstr "Вы уверены, что хотите отправить письмо?"
+
+#: includes/class-kadence-woomail-customizer.php:380
+msgid "Email Sent!"
+msgstr "Письмо отправлено!"
+
+#: includes/class-kadence-woomail-customizer.php:381
+msgid "Email failed, make sure you have a working email server for your site."
+msgstr "Письмо не удалось отправить. Проверьте работу вашего сервера."
+
+#: includes/class-kadence-woomail-customizer.php:382
+msgid ""
+"Are you sure you want to reset all changes made to your WooCommerce emails?"
+msgstr ""
+"Вы уверены, что хотите сбросить все изменения внесенные в ваши письма "
+"WooCommerce?"
+
+#: includes/class-kadence-woomail-customizer.php:383
+msgid ""
+"<p>Use native WordPress Customizer to make Woocommerce emails match your "
+"brand.</p>"
+msgstr ""
+"<p>Используйте родной Настройщик WordPress, чтобы письма Woocommerce "
+"соответствовали стилистике вашего бренда.</p>"
+
+#: includes/class-kadence-woomail-customizer.php:383
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Kadence Woocommerce Email Designer</a> plugin by <a href="
+"\"%2$s\">Kadence Themes</a>."
+msgstr ""
+"<a href=\"%1$s\">Kadence Woocommerce Email Designer</a> плагин от <a href="
+"\"%2$s\">Kadence Themes</a>."
+
+#: includes/class-kadence-woomail-customizer.php:392
+msgid "Please choose a file to import."
+msgstr "Пожалуйста, выберите файл для импорта."
+
+#: includes/class-kadence-woomail-customizer.php:393
+msgid ""
+"WARNING: This will override all of your current settings. Are you sure you "
+"want to do that? We suggest geting an export of your current settings incase "
+"you want to revert back."
+msgstr ""
+"ВНИМАНИЕ: Это переопределит все ваши текущие настройки. Вы уверены, что "
+"хотите это сделать? Мы предлагаем выполнить сначала экспорт ваших текущих "
+"настроек."
+
+#: includes/class-kadence-woomail-import-export.php:211
+msgid "Error importing settings! Please try again."
+msgstr "Ошибка импорта настроек! Пожалуйста, повторите попытку."
+
+#: includes/class-kadence-woomail-import-export.php:224
+#: includes/class-kadence-woomail-import-export.php:228
+msgid ""
+"Error importing settings! Please check that you uploaded a customizer export "
+"file."
+msgstr ""
+"Ошибка импорта настроек! Пожалуйста, проверьте, что вы загрузили файл "
+"экспорта настройщика письма."
+
+#: includes/class-kadence-woomail-import-export.php:232
+msgid ""
+"Error importing settings! The settings you uploaded are not for the Kadence "
+"Woomail Designer."
+msgstr ""
+"Ошибка импорта настроек! Настройки, которые вы загрузили, не подходят для "
+"плагина Kadence Woomail Designer."
+
+#: includes/class-kadence-woomail-import-export.php:293
+msgid "Error importing settings! The template you selected is not found."
+msgstr "Ошибка импорта настроек! Выбранный шаблон не найден."
+
+#: includes/class-kadence-woomail-import-export.php:297
+#: includes/class-kadence-woomail-import-export.php:301
+msgid "Error importing settings! The template you selected is not valid."
+msgstr "Ошибка импорта настроек! Выбранный шаблон не действителен."
+
+#: includes/class-kadence-woomail-preview.php:365
+msgid "Hello! This is an example note"
+msgstr "Привет! Это пример примечания"
+
+#: includes/class-kadence-woomail-preview.php:697
+msgid ""
+"This email type can not be previewed please try a different order or email "
+"type."
+msgstr ""
+"Этот тип письма не может быть просмотрен, пожалуйста, попробуйте другой "
+"заказ или тип письма."
+
+#: includes/class-kadence-woomail-preview.php:699
+msgid ""
+"This email type requires that an order containing a subscription be selected "
+"as the preview order."
+msgstr ""
+"Этот тип письма требует, чтобы заказ содержащий подписку был выбран в "
+"качестве письма для тестовой отправки."
+
+#: includes/class-kadence-woomail-preview.php:701
+msgid ""
+"To generate a preview of this email type you must choose an order containing "
+"a subscription which has also failed to auto renew as the preview order in "
+"the settings."
+msgstr ""
+"Для создания тестового письма необходимо выбрать заказ содержащий подписку, "
+"которая также не смогла автоматически продлиться в настройках тестового "
+"письма."
+
+#: includes/class-kadence-woomail-preview.php:703
+msgid ""
+"This email type requires that an order containing a vendor purchase be "
+"selected as the preview order."
+msgstr ""
+"Этот тип письма требует, чтобы заказ содержащий покупку, был выбран в "
+"качестве тестового заказа."
+
+#: includes/class-kadence-woomail-preview.php:705
+msgid ""
+"This email type requires that an order containing a user who has an active "
+"membership be selected as the preview order."
+msgstr ""
+"Этот тип письма требует, чтобы заказ пользователя, который имеет активное "
+"членство, был выбран в качестве заказа для предварительного просмотра."
+
+#: includes/class-kadence-woomail-preview.php:769
+msgid ""
+"An error occurred trying to load this email type. Make sure this email type "
+"is enabled or please try another type."
+msgstr ""
+"Произошла ошибка при загрузке этого типа письма. Убедитесь, что этот тип "
+"письма включен или попробуйте другой тип письма."
+
+#: includes/class-kadence-woomail-settings.php:246
+msgid "Header"
+msgstr "Шапка"
+
+#: includes/class-kadence-woomail-settings.php:252
+msgid "Content"
+msgstr "Контент"
+
+#: includes/class-kadence-woomail-settings.php:258
+msgid "Footer"
+msgstr "Футер"
+
+#: includes/class-kadence-woomail-settings.php:280
+msgid "Prebuilt Templates"
+msgstr "Готовые шаблоны"
+
+#: includes/class-kadence-woomail-settings.php:285
+msgid "Email Type and Text"
+msgstr "Содержимое писем"
+
+#: includes/class-kadence-woomail-settings.php:290
+msgid "Container"
+msgstr "Контейнер"
+
+#: includes/class-kadence-woomail-settings.php:296
+msgid "Header Style"
+msgstr "Стиль шапки"
+
+#: includes/class-kadence-woomail-settings.php:303
+#: includes/class-kadence-woomail-settings.php:409
+msgid "Header Image"
+msgstr "Логотип"
+
+#: includes/class-kadence-woomail-settings.php:310
+msgid "Heading"
+msgstr "Заголовок"
+
+#: includes/class-kadence-woomail-settings.php:317
+msgid "Footer Style"
+msgstr "Стиль футера"
+
+#: includes/class-kadence-woomail-settings.php:323
+msgid "Footer Social"
+msgstr "Социальные сети в футере"
+
+#: includes/class-kadence-woomail-settings.php:329
+msgid "Footer Credit Content"
+msgstr "Инфа о сайте"
+
+#: includes/class-kadence-woomail-settings.php:335
+msgid "Content Container"
+msgstr "Отступы и фон"
+
+#: includes/class-kadence-woomail-settings.php:341
+msgid "Content Headings Style"
+msgstr "Стиль заголовков"
+
+#: includes/class-kadence-woomail-settings.php:347
+msgid "Content Text Style"
+msgstr "Стиль текста"
+
+#: includes/class-kadence-woomail-settings.php:353
+msgid "Order Items"
+msgstr "Товары"
+
+#: includes/class-kadence-woomail-settings.php:359
+msgid "Addresses"
+msgstr "Адреса"
+
+#: includes/class-kadence-woomail-settings.php:365
+msgid "Text Copy"
+msgstr "Копировать текст"
+
+#: includes/class-kadence-woomail-settings.php:371
+msgid "Button Styles"
+msgstr "Кнопка"
+
+#: includes/class-kadence-woomail-settings.php:377
+msgid "Custom Styles"
+msgstr "Произвольные стили"
+
+#: includes/class-kadence-woomail-settings.php:382
+#: includes/class-kadence-woomail-settings.php:2798
+msgid "Import Export"
+msgstr "Импорт / Экспорт"
+
+#: includes/class-kadence-woomail-settings.php:387
+msgid "Send Preview Email"
+msgstr "Отправить тестовое письмо"
+
+#: includes/class-kadence-woomail-settings.php:422
+msgid "Container Background color"
+msgstr "Фоновый цвет контейнера"
+
+#: includes/class-kadence-woomail-settings.php:435
+msgid "Content Text color"
+msgstr "Цвет текста контента"
+
+#: includes/class-kadence-woomail-settings.php:449
+msgid "Content Background color"
+msgstr "Фоновый цвет контента"
+
+#: includes/class-kadence-woomail-settings.php:463
+msgid "Footer text"
+msgstr "Текст подвала"
+
+#: includes/class-kadence-woomail-settings.php:478
+msgid "Recipient(s)"
+msgstr "Получатели"
+
+#: includes/class-kadence-woomail-settings.php:483
+#, php-format
+msgid "Enter recipients (comma separated) for this email. Defaults to %s."
+msgstr "Введите получателей (через запятую). По умолчанию <code>%s</code>."
+
+#: includes/class-kadence-woomail-settings.php:494
+msgid "Full refund subject"
+msgstr "Тема письма о полном возврате"
+
+#: includes/class-kadence-woomail-settings.php:510
+msgid "Partial refund subject"
+msgstr "Тема письма о частичном возврате"
+
+#: includes/class-kadence-woomail-settings.php:526
+msgid "Full refund Heading Text"
+msgstr "Заголовок письма о полном возврате"
+
+#: includes/class-kadence-woomail-settings.php:546
+msgid "Partial refund Heading Text"
+msgstr "Заголовок письма о частичном возврате"
+
+#: includes/class-kadence-woomail-settings.php:562
+#: includes/class-kadence-woomail-settings.php:649
+msgid "Additional content"
+msgstr "Дополнительный контент"
+
+#: includes/class-kadence-woomail-settings.php:581
+msgid "Subject Text"
+msgstr "Тема письма"
+
+#: includes/class-kadence-woomail-settings.php:597
+msgid "Subject (paid) Text"
+msgstr "Тема письма (оплачено)"
+
+#: includes/class-kadence-woomail-settings.php:614
+msgid "Heading Text"
+msgstr "Текст заголовка"
+
+#: includes/class-kadence-woomail-settings.php:632
+msgid "Heading (paid) Text"
+msgstr "Заголовок письма (оплачено)"
+
+#: includes/class-kadence-woomail-settings.php:685
+msgid "Template_load"
+msgstr ""
+
+#: includes/class-kadence-woomail-settings.php:694
+msgid "Preview Order"
+msgstr "Выберите заказ для отображения"
+
+#: includes/class-kadence-woomail-settings.php:704
+msgid "Email Type"
+msgstr "Выберите письмо"
+
+#: includes/class-kadence-woomail-settings.php:714
+msgid "Available placeholders"
+msgstr "Доступные заполнители"
+
+#: includes/class-kadence-woomail-settings.php:727
+msgid "Subtitle Text"
+msgstr "Текст подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:744
+msgid "Show account section"
+msgstr "Показать ссылку на учетную запись"
+
+#: includes/class-kadence-woomail-settings.php:758
+msgid "Switch account link to button"
+msgstr "Показать ссылку как кнопку"
+
+#: includes/class-kadence-woomail-settings.php:775
+msgid "Switch off for Partial Refund Preview"
+msgstr "Частичный возврат / Полный возврат"
+
+#: includes/class-kadence-woomail-settings.php:790
+msgid "Body Full Refund Text"
+msgstr "Тема письма о полном возврате"
+
+#: includes/class-kadence-woomail-settings.php:804
+msgid "Body Partial Refund Text"
+msgstr "Тема письма о частичном возврате"
+
+#: includes/class-kadence-woomail-settings.php:819
+msgid "Switch off for unpaid preview"
+msgstr "Не оплачен / Оплачен"
+
+#: includes/class-kadence-woomail-settings.php:834
+msgid "Make \"Pay for this Order\" a button"
+msgstr "Показать кнопку \"Оплатить этот заказ\""
+
+#: includes/class-kadence-woomail-settings.php:848
+msgid "Body Invoice Paid Text"
+msgstr "Текст в письме если счет Оплачен"
+
+#: includes/class-kadence-woomail-settings.php:862
+#: includes/class-kadence-woomail-settings.php:974
+msgid "Body Invoice Pending Payment Text"
+msgstr "Текст в письме если счет Не оплачен"
+
+#: includes/class-kadence-woomail-settings.php:876
+#: includes/class-kadence-woomail-settings.php:918
+msgid "Override Static Email Content with Custom Body Text?"
+msgstr ""
+
+#: includes/class-kadence-woomail-settings.php:890
+msgid "Make \"Pay now\" a button"
+msgstr "Показать кнопку \"Оплатить сейчас\""
+
+#: includes/class-kadence-woomail-settings.php:904
+#: includes/class-kadence-woomail-settings.php:932
+#: includes/class-kadence-woomail-settings.php:1002
+#: includes/class-kadence-woomail-settings.php:1016
+msgid "Body Text"
+msgstr "Основной текст"
+
+#: includes/class-kadence-woomail-settings.php:946
+msgid "Make \"Pay Now\" a button"
+msgstr "Показать кнопку \"Оплатить сейчас\""
+
+#: includes/class-kadence-woomail-settings.php:960
+msgid "Body Invoice Failed Text"
+msgstr "Текст письма Неудачный счет"
+
+#: includes/class-kadence-woomail-settings.php:988
+msgid "Make \"reset your password\" a button"
+msgstr "Показать кнопку \"Сбросить пароль\""
+
+#: includes/class-kadence-woomail-settings.php:1031
+msgid "Remove Normal Content Output"
+msgstr ""
+
+#: includes/class-kadence-woomail-settings.php:1051
+msgid "Content Width"
+msgstr "Ширина контента"
+
+#: includes/class-kadence-woomail-settings.php:1070
+msgid "Enable Fluid Width"
+msgstr "Включить плавающую ширину"
+
+#: includes/class-kadence-woomail-settings.php:1077
+msgid "Content Inner Max Width"
+msgstr "Максимальная внутренняя ширина контента"
+
+#: includes/class-kadence-woomail-settings.php:1101
+#: includes/class-kadence-woomail-settings.php:2748
+msgid "Border radius"
+msgstr "Скругление углов"
+
+#: includes/class-kadence-woomail-settings.php:1106
+#: includes/class-kadence-woomail-settings.php:2753
+msgid "Warning: most desktop email clients do not yet support this."
+msgstr ""
+"Предупреждение: большинство почтовых клиентов пока не поддерживают это."
+
+#: includes/class-kadence-woomail-settings.php:1118
+msgid "Border Top Width"
+msgstr "Ширина верхней рамки"
+
+#: includes/class-kadence-woomail-settings.php:1134
+msgid "Border Right Width"
+msgstr "Ширина правой рамки"
+
+#: includes/class-kadence-woomail-settings.php:1150
+msgid "Border Bottom Width"
+msgstr "Ширина нижней рамки"
+
+#: includes/class-kadence-woomail-settings.php:1166
+msgid "Border Left Width"
+msgstr "Ширина левой рамки"
+
+#: includes/class-kadence-woomail-settings.php:1182
+msgid "Border color"
+msgstr "Цвет рамки"
+
+#: includes/class-kadence-woomail-settings.php:1193
+msgid "Shadow"
+msgstr "Тень"
+
+#: includes/class-kadence-woomail-settings.php:1196
+msgid "Warning: most email clients do not yet support this."
+msgstr ""
+"Предупреждение: большинство почтовых клиентов пока не поддерживают это."
+
+#: includes/class-kadence-woomail-settings.php:1210
+msgid "Container Top Padding"
+msgstr "Верхний внутрений отступ контейнера"
+
+#: includes/class-kadence-woomail-settings.php:1226
+msgid "Container Botom Padding"
+msgstr "Нижний внутрений отступ контейнера"
+
+#: includes/class-kadence-woomail-settings.php:1245
+msgid "Header Image Placement"
+msgstr "Положение логотипа"
+
+#: includes/class-kadence-woomail-settings.php:1251
+#: includes/class-kadence-woomail-settings.php:2313
+msgid "Outside Body Container"
+msgstr "Вне контейнера"
+
+#: includes/class-kadence-woomail-settings.php:1252
+#: includes/class-kadence-woomail-settings.php:2312
+msgid "Inside Body Container"
+msgstr "Внутри контейнера"
+
+#: includes/class-kadence-woomail-settings.php:1257
+msgid "Image Align"
+msgstr "Выравнивание изображения"
+
+#: includes/class-kadence-woomail-settings.php:1269
+msgid "Image Max Width"
+msgstr "Максимальная ширина изображения"
+
+#: includes/class-kadence-woomail-settings.php:1284
+#: includes/class-kadence-woomail-settings.php:1311
+msgid "Background color"
+msgstr "Фоновый цвет"
+
+#: includes/class-kadence-woomail-settings.php:1295
+msgid "Padding top/bottom"
+msgstr "Верхний/нижний отступ"
+
+#: includes/class-kadence-woomail-settings.php:1322
+msgid "Text align"
+msgstr "Выравнивание текста"
+
+#: includes/class-kadence-woomail-settings.php:1336
+#: includes/class-kadence-woomail-settings.php:1581
+msgid "Padding Top"
+msgstr "Внутренний верхний отступ"
+
+#: includes/class-kadence-woomail-settings.php:1352
+#: includes/class-kadence-woomail-settings.php:1597
+msgid "Padding Bottom"
+msgstr "Внутренний нижний отступ"
+
+#: includes/class-kadence-woomail-settings.php:1369
+msgid "Padding left/right"
+msgstr "Левый/правый внутренний отступ"
+
+#: includes/class-kadence-woomail-settings.php:1385
+msgid "Heading Font size"
+msgstr "Размер шрифта заголовка"
+
+#: includes/class-kadence-woomail-settings.php:1401
+msgid "Heading Line Height"
+msgstr "Межстрочный интервал заголовка"
+
+#: includes/class-kadence-woomail-settings.php:1417
+msgid "Heading Font family"
+msgstr "Шрифт заголовка"
+
+#: includes/class-kadence-woomail-settings.php:1429
+msgid "Heading Font Style"
+msgstr "Стиль шрифта заголовка"
+
+#: includes/class-kadence-woomail-settings.php:1435
+#: includes/class-kadence-woomail-settings.php:1542
+#: includes/class-kadence-woomail-settings.php:1824
+#: includes/class-kadence-woomail-settings.php:2013
+#: includes/class-kadence-woomail-settings.php:2055
+#: includes/class-kadence-woomail-settings.php:2192
+msgid "Normal"
+msgstr "Обычный"
+
+#: includes/class-kadence-woomail-settings.php:1436
+#: includes/class-kadence-woomail-settings.php:1543
+#: includes/class-kadence-woomail-settings.php:1825
+#: includes/class-kadence-woomail-settings.php:2014
+msgid "Italic"
+msgstr "Курсив"
+
+#: includes/class-kadence-woomail-settings.php:1444
+msgid "Heading Font weight"
+msgstr "Насыщенность шрифта заголовка"
+
+#: includes/class-kadence-woomail-settings.php:1460
+msgid "Heading Text color"
+msgstr "Цвет текста заголовка"
+
+#: includes/class-kadence-woomail-settings.php:1472
+msgid "Subtitle Settings"
+msgstr "Настройки подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:1479
+msgid "Subtitle Placement"
+msgstr "Положение подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:1485
+msgid "Below Heading"
+msgstr "Под заголовком"
+
+#: includes/class-kadence-woomail-settings.php:1486
+msgid "Above Heading"
+msgstr "Над заголовком"
+
+#: includes/class-kadence-woomail-settings.php:1492
+msgid "Subtitle Font Size"
+msgstr "Размер шрифта подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:1508
+msgid "Subtitle Line Height"
+msgstr "Межстрочный интервал подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:1524
+msgid "Subtitle Font Family"
+msgstr "Шрифт подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:1536
+msgid "Subtitle Font Style"
+msgstr "Стиль шрифта подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:1552
+msgid "Subtitle Font weight"
+msgstr "Насыщенность шрифта подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:1569
+msgid "Subtitle Text color"
+msgstr "Цвет подзаголовка"
+
+#: includes/class-kadence-woomail-settings.php:1613
+msgid "Padding Left/Right"
+msgstr "Левый/правый внутренний отступ"
+
+#: includes/class-kadence-woomail-settings.php:1631
+#: includes/class-kadence-woomail-settings.php:2545
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: includes/class-kadence-woomail-settings.php:1648
+msgid "Line Height"
+msgstr "Межстрочный интервал"
+
+#: includes/class-kadence-woomail-settings.php:1665
+#: includes/class-kadence-woomail-settings.php:2561
+msgid "Font Family"
+msgstr "Название шрифта"
+
+#: includes/class-kadence-woomail-settings.php:1679
+#: includes/class-kadence-woomail-settings.php:2574
+msgid "Font weight"
+msgstr "Насыщенность шрифта"
+
+#: includes/class-kadence-woomail-settings.php:1695
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: includes/class-kadence-woomail-settings.php:1709
+msgid "H2 Font Size"
+msgstr "H2 Размер шрифта"
+
+#: includes/class-kadence-woomail-settings.php:1725
+msgid "H2 Line Height"
+msgstr "H2 Межстрочный интервал"
+
+#: includes/class-kadence-woomail-settings.php:1741
+msgid "H2 Padding Top"
+msgstr "H2 Верхний внутренний отступ"
+
+#: includes/class-kadence-woomail-settings.php:1757
+msgid "H2 Padding Bottom"
+msgstr "H2 Нижний внутренний  отступ"
+
+#: includes/class-kadence-woomail-settings.php:1773
+msgid "H2 Margin Top"
+msgstr "H2 Верхний внешний отступ"
+
+#: includes/class-kadence-woomail-settings.php:1789
+msgid "H2 Margin Bottom"
+msgstr "H2 Нижний внешний отступ"
+
+#: includes/class-kadence-woomail-settings.php:1805
+msgid "H2 Font Family"
+msgstr "H2 Шрифт"
+
+#: includes/class-kadence-woomail-settings.php:1818
+msgid "H2 Font Style"
+msgstr "H2 Стиль шрифта"
+
+#: includes/class-kadence-woomail-settings.php:1834
+msgid "H2 Font weight"
+msgstr "H2 Насыщеность шрифта"
+
+#: includes/class-kadence-woomail-settings.php:1851
+msgid "H2 Text Transform"
+msgstr "H2 Преобразование текста"
+
+#: includes/class-kadence-woomail-settings.php:1858
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: includes/class-kadence-woomail-settings.php:1859
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: includes/class-kadence-woomail-settings.php:1860
+msgid "Capitalize"
+msgstr "Заглавные"
+
+#: includes/class-kadence-woomail-settings.php:1868
+msgid "H2 Color"
+msgstr "H2 Цвет"
+
+#: includes/class-kadence-woomail-settings.php:1880
+msgid "H2 Text Align"
+msgstr "H2 Выравнивание текста"
+
+#: includes/class-kadence-woomail-settings.php:1892
+msgid "H2 Separator"
+msgstr "H2 Разделитель"
+
+#: includes/class-kadence-woomail-settings.php:1899
+msgid "Separator below"
+msgstr "Разделитель ниже"
+
+#: includes/class-kadence-woomail-settings.php:1900
+msgid "Separator above"
+msgstr "Разделитель выше"
+
+#: includes/class-kadence-woomail-settings.php:1905
+msgid "H2 Separator height"
+msgstr "H2 Высота разделителя"
+
+#: includes/class-kadence-woomail-settings.php:1923
+msgid "H2 Separator Style"
+msgstr "H2 Стиль разделителя"
+
+#: includes/class-kadence-woomail-settings.php:1929
+#: includes/class-kadence-woomail-settings.php:2171
+#: includes/class-kadence-woomail-settings.php:2270
+#: includes/class-kadence-woomail-settings.php:2519
+msgid "Solid"
+msgstr "Сплошная линия"
+
+#: includes/class-kadence-woomail-settings.php:1930
+#: includes/class-kadence-woomail-settings.php:2172
+#: includes/class-kadence-woomail-settings.php:2271
+#: includes/class-kadence-woomail-settings.php:2520
+msgid "Double"
+msgstr "Двойная линия"
+
+#: includes/class-kadence-woomail-settings.php:1931
+#: includes/class-kadence-woomail-settings.php:2173
+#: includes/class-kadence-woomail-settings.php:2272
+#: includes/class-kadence-woomail-settings.php:2521
+msgid "Groove"
+msgstr "Вдавленная линия"
+
+#: includes/class-kadence-woomail-settings.php:1932
+#: includes/class-kadence-woomail-settings.php:2174
+#: includes/class-kadence-woomail-settings.php:2273
+#: includes/class-kadence-woomail-settings.php:2522
+msgid "Dotted"
+msgstr "Точечный пунктир"
+
+#: includes/class-kadence-woomail-settings.php:1933
+#: includes/class-kadence-woomail-settings.php:2175
+#: includes/class-kadence-woomail-settings.php:2274
+#: includes/class-kadence-woomail-settings.php:2523
+msgid "Dashed"
+msgstr "Штриховой пунктир"
+
+#: includes/class-kadence-woomail-settings.php:1934
+#: includes/class-kadence-woomail-settings.php:2176
+#: includes/class-kadence-woomail-settings.php:2275
+#: includes/class-kadence-woomail-settings.php:2524
+msgid "Ridge"
+msgstr "Выпуклая линия"
+
+#: includes/class-kadence-woomail-settings.php:1943
+msgid "H2 Separator Color"
+msgstr "H2 Цвет разделителя"
+
+#: includes/class-kadence-woomail-settings.php:1956
+msgid "H3 Settings"
+msgstr "H3 Настройки"
+
+#: includes/class-kadence-woomail-settings.php:1963
+msgid "H3 Font Size"
+msgstr "H3 Размер шрифта"
+
+#: includes/class-kadence-woomail-settings.php:1979
+msgid "H3 Line Height"
+msgstr "H3 Межстрочный интервал"
+
+#: includes/class-kadence-woomail-settings.php:1995
+msgid "H3 Font Family"
+msgstr "H3 Шрифт"
+
+#: includes/class-kadence-woomail-settings.php:2007
+msgid "H3 Font Style"
+msgstr "H3 Стиль шрифта"
+
+#: includes/class-kadence-woomail-settings.php:2022
+msgid "H3 Font weight"
+msgstr "H3 Насыщенность шрифта"
+
+#: includes/class-kadence-woomail-settings.php:2038
+msgid "H3 Color"
+msgstr "H3 Цвет"
+
+#: includes/class-kadence-woomail-settings.php:2049
+msgid "Order Table Style"
+msgstr "Стиль таблицы заказа"
+
+#: includes/class-kadence-woomail-settings.php:2056
+msgid "Light"
+msgstr "Легкий"
+
+#: includes/class-kadence-woomail-settings.php:2061
+msgid "Product Image Option"
+msgstr "Изображение товара"
+
+#: includes/class-kadence-woomail-settings.php:2067
+msgid "Do not show"
+msgstr "Не показывать"
+
+#: includes/class-kadence-woomail-settings.php:2068
+msgid "Show"
+msgstr "Показать"
+
+#: includes/class-kadence-woomail-settings.php:2073
+msgid "Order Table Background color"
+msgstr "Фоновый цвет таблицы заказа"
+
+#: includes/class-kadence-woomail-settings.php:2084
+msgid "Order Table Background Odd Row Color"
+msgstr "Фоновый цвет нечетных строк"
+
+#: includes/class-kadence-woomail-settings.php:2098
+msgid "Padding Top and Bottom"
+msgstr "Внутренний отступ сверху и снизу"
+
+#: includes/class-kadence-woomail-settings.php:2117
+msgid "Padding Left and Right"
+msgstr "Внутренний отступ слева и справа"
+
+#: includes/class-kadence-woomail-settings.php:2135
+msgid "Border Width"
+msgstr "Толщина рамки"
+
+#: includes/class-kadence-woomail-settings.php:2154
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: includes/class-kadence-woomail-settings.php:2165
+msgid "Border Style"
+msgstr "Стиль рамки"
+
+#: includes/class-kadence-woomail-settings.php:2186
+msgid "Order Table Heading Style"
+msgstr "Стиль заголовка таблицы заказа"
+
+#: includes/class-kadence-woomail-settings.php:2193
+msgid "Split"
+msgstr "Разделить"
+
+#: includes/class-kadence-woomail-settings.php:2197
+msgid "Enable Order Notes to be moved below table."
+msgstr "Включить Примечание к заказу, которое будет отображаться под таблицей."
+
+#: includes/class-kadence-woomail-settings.php:2210
+msgid "Address Box Background color"
+msgstr "Фоновый цвет блока с адресом"
+
+#: includes/class-kadence-woomail-settings.php:2221
+msgid "Address Box Padding"
+msgstr "Внутренний отступ блока с адресом."
+
+#: includes/class-kadence-woomail-settings.php:2237
+msgid "Address Box Border Width"
+msgstr "Ширина рамки блока с адресом."
+
+#: includes/class-kadence-woomail-settings.php:2253
+msgid "Address Box Border Color"
+msgstr "Цвет рамки блока с адресом"
+
+#: includes/class-kadence-woomail-settings.php:2264
+msgid "Address Box Border Style"
+msgstr "Стиль рамки блока с адресом"
+
+#: includes/class-kadence-woomail-settings.php:2283
+msgid "Address Box Text Color"
+msgstr "Цвет текста адреса"
+
+#: includes/class-kadence-woomail-settings.php:2294
+msgid "Address Box Text Align"
+msgstr "Выравнивание текста адреса"
+
+#: includes/class-kadence-woomail-settings.php:2306
+msgid "Footer Background Placement"
+msgstr "Размещение футера"
+
+#: includes/class-kadence-woomail-settings.php:2318
+msgid "Footer Background Color"
+msgstr "Фоновый цвет футера"
+
+#: includes/class-kadence-woomail-settings.php:2330
+#: includes/class-kadence-woomail-settings.php:2454
+#: includes/class-kadence-woomail-settings.php:2602
+msgid "Top Padding"
+msgstr "Верхний внутренний отступ"
+
+#: includes/class-kadence-woomail-settings.php:2346
+#: includes/class-kadence-woomail-settings.php:2470
+#: includes/class-kadence-woomail-settings.php:2618
+msgid "Bottom Padding"
+msgstr "Нижний внутренний отступ"
+
+#: includes/class-kadence-woomail-settings.php:2362
+msgid "Left/Right Padding"
+msgstr "Внутренний отступ слева/справа"
+
+#: includes/class-kadence-woomail-settings.php:2377
+msgid "Enable Social Section"
+msgstr "Включить раздел с социальными ссылками"
+
+#: includes/class-kadence-woomail-settings.php:2385
+msgid "Footer Social Options"
+msgstr "Социальные сети в футере"
+
+#: includes/class-kadence-woomail-settings.php:2399
+msgid "Footer Social Title Color"
+msgstr "Цвет заголовка для соц.ссылок в футере"
+
+#: includes/class-kadence-woomail-settings.php:2410
+msgid "Footer Social Title Font Size"
+msgstr "Размер шрифта заголовка для соц.ссылок в футере"
+
+#: includes/class-kadence-woomail-settings.php:2426
+msgid "Footer Social Title Font Family"
+msgstr "Шрифт заголовка для соц.ссылок в футере"
+
+#: includes/class-kadence-woomail-settings.php:2438
+msgid "Footer Social Title Font Weight"
+msgstr "Насыщенность шрифта заголовка для соц.ссылок в футере"
+
+#: includes/class-kadence-woomail-settings.php:2486
+msgid "Footer Social Bottom Border Width"
+msgstr "Ширина нижней рамки"
+
+#: includes/class-kadence-woomail-settings.php:2502
+msgid "Footer Social Bottom Border Color"
+msgstr "Цвет нижней рамки"
+
+#: includes/class-kadence-woomail-settings.php:2513
+msgid "Footer Social Bottom Border Style"
+msgstr "Стиль нижней рамки"
+
+#: includes/class-kadence-woomail-settings.php:2532
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: includes/class-kadence-woomail-settings.php:2591
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/class-kadence-woomail-settings.php:2634
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: includes/class-kadence-woomail-settings.php:2645
+msgid "Button Font Size"
+msgstr "Размер шрифта для кнопки"
+
+#: includes/class-kadence-woomail-settings.php:2661
+msgid "Button Font Family"
+msgstr "Шрифт кнопки"
+
+#: includes/class-kadence-woomail-settings.php:2673
+msgid "Button Font Weight"
+msgstr "Насыщенность шрифта кнопки"
+
+#: includes/class-kadence-woomail-settings.php:2689
+msgid "Button Background Color"
+msgstr "Фоновый цвет кнопки"
+
+#: includes/class-kadence-woomail-settings.php:2700
+msgid "Top and Bottom Padding"
+msgstr "Верхний и нижний внутренние отступы"
+
+#: includes/class-kadence-woomail-settings.php:2716
+msgid "Left and Right Padding"
+msgstr "Внутренний правый и левый отступ"
+
+#: includes/class-kadence-woomail-settings.php:2732
+msgid "Button Border Width"
+msgstr "Ширина рамки кнопки"
+
+#: includes/class-kadence-woomail-settings.php:2765
+msgid "Button Border Color"
+msgstr "Цвет рамки кнопки"
+
+#: includes/class-kadence-woomail-settings.php:2776
+msgid "Button Align"
+msgstr "Выравнивание кнопки"
+
+#: includes/class-kadence-woomail-settings.php:2787
+msgid "Custom CSS"
+msgstr "Произвольные стили CSS"
+
+#: includes/class-kadence-woomail-settings.php:2804
+msgid "Preview Email Recipient"
+msgstr "Адрес получателя"
+
+#: includes/class-kadence-woomail-settings.php:2805
+msgid "Enter recipients (comma separated) for preview emails"
+msgstr "Укажите получателей (через запятую), которые получат это письмо"
+
+#: includes/class-kadence-woomail-settings.php:2846
+msgid "Hi There,"
+msgstr "Привет,"
+
+#: includes/class-kadence-woomail-settings.php:2847
+msgid "{product_title} is now back in stock at {site_title}"
+msgstr "{product_title} снова на складе в {site_title}"
+
+#: includes/class-kadence-woomail-settings.php:2848
+msgid "A product you are waiting for is back in stock"
+msgstr "Товар который Вы ждёте уже есть в наличии"
+
+#: includes/class-kadence-woomail-settings.php:2849
+#: includes/class-kadence-woomail-settings.php:2878
+msgid "New customer order"
+msgstr "Новый клиентский заказ"
+
+#: includes/class-kadence-woomail-settings.php:2850
+#: includes/class-kadence-woomail-settings.php:2899
+msgid "[{site_title}] New customer order ({order_number}) - {order_date}"
+msgstr "[{site_title}] Новый заказ ({order_number}) — {order_date}"
+
+#: includes/class-kadence-woomail-settings.php:2851
+msgid ""
+"You have received a subscription renewal order from {customer_full_name}. "
+"Their order is as follows:"
+msgstr ""
+"Вы получили заказ на продление подписки от {customer_full_name}. Детали "
+"заказа:"
+
+#: includes/class-kadence-woomail-settings.php:2852
+#: includes/class-kadence-woomail-settings.php:2880
+#: includes/class-kadence-woomail-settings.php:2891
+msgid "Thank you for your order"
+msgstr "Спасибо за ваш заказ"
+
+#: includes/class-kadence-woomail-settings.php:2853
+#: includes/class-kadence-woomail-settings.php:2901
+#: includes/class-kadence-woomail-settings.php:2905
+msgid "Your {site_title} order receipt from {order_date}"
+msgstr "Квитанция вашего заказа на {site_title} от {order_date}"
+
+#: includes/class-kadence-woomail-settings.php:2854
+msgid ""
+"Your subscription renewal order has been received and is now being "
+"processed. Your order details are shown below for your reference:"
+msgstr ""
+"Ваш заказ на продление подписки был принят и сейчас находится в обработке. "
+"Информация о заказе приведена ниже:"
+
+#: includes/class-kadence-woomail-settings.php:2855
+#: includes/class-kadence-woomail-settings.php:2858
+#: includes/class-kadence-woomail-settings.php:2888
+msgid "Your order is complete"
+msgstr "Ваш заказ выполнен"
+
+#: includes/class-kadence-woomail-settings.php:2856
+#: includes/class-kadence-woomail-settings.php:2859
+#: includes/class-kadence-woomail-settings.php:2902
+msgid "Your {site_title} order from {order_date} is complete"
+msgstr "Ваш заказ на {site_title} от {order_date} выполнен"
+
+#: includes/class-kadence-woomail-settings.php:2857
+msgid ""
+"Hi there. Your subscription renewal order with {site_title} has been "
+"completed. Your order details are shown below for your reference:"
+msgstr ""
+"Здравствуйте! Вы успешно продлили подписку на сайте {site_title}. Детали "
+"заказа:"
+
+#: includes/class-kadence-woomail-settings.php:2860
+msgid ""
+"Hi there. You have successfully changed your subscription items on "
+"{site_title}. Your new order and subscription details are shown below for "
+"your reference:"
+msgstr ""
+"Здравствуйте! Вы успешно изменили подписку на сайте {site_title}. Детали "
+"заказа:"
+
+#: includes/class-kadence-woomail-settings.php:2861
+#: includes/class-kadence-woomail-settings.php:2862
+#: includes/class-kadence-woomail-settings.php:2892
+#: includes/class-kadence-woomail-settings.php:2906
+msgid "Invoice for order {order_number}"
+msgstr "Счет на оплату по заказу {order_number}"
+
+#: includes/class-kadence-woomail-settings.php:2863
+msgid ""
+"An invoice has been created for you to renew your subscription with "
+"{site_title}. To pay for this invoice please use the following link: "
+"{invoice_pay_link}"
+msgstr ""
+"Для продления подписки был создан счет-фактура на сайте {site_title}. Для "
+"оплаты этого счета, пожалуйста, перейдите по ссылке: {invoice_pay_link}"
+
+#: includes/class-kadence-woomail-settings.php:2865
+msgid ""
+"The automatic payment to renew your subscription with {site_title} has "
+"failed. To reactivate the subscription, please login and pay for the renewal "
+"from your account page: {invoice_pay_link}"
+msgstr ""
+
+#: includes/class-kadence-woomail-settings.php:2866
+msgid "Subscription Cancelled"
+msgstr "Подписка отменена"
+
+#: includes/class-kadence-woomail-settings.php:2867
+msgid "[{site_title}] Subscription Cancelled"
+msgstr "Подписка на сайте [{site_title}] отменена"
+
+#: includes/class-kadence-woomail-settings.php:2868
+msgid ""
+"A subscription belonging to {customer_full_name} has been cancelled. Their "
+"subscription's details are as follows:"
+msgstr "Подписка пользователя {customer_full_name} отменена. Детали подписки:"
+
+#: includes/class-kadence-woomail-settings.php:2869
+msgid "Automatic payment failed for order {order_number}"
+msgstr "Автоматическая оплата заказа не произведена {order_number}"
+
+#: includes/class-kadence-woomail-settings.php:2870
+msgid "Automatic payment failed for {order_number}, we will retry {retry_time}"
+msgstr ""
+"Ошибка автоматического платежа для {order_number}, мы повторим попытку "
+"{retry_time}"
+
+#: includes/class-kadence-woomail-settings.php:2874
+msgid "Automatic renewal payment failed"
+msgstr "Автоматический платеж за продление не прошёл"
+
+#: includes/class-kadence-woomail-settings.php:2875
+msgid ""
+"[{site_title}] Automatic payment failed for {order_number}, retry scheduled "
+"to run {retry_time}"
+msgstr ""
+"[{site_title}] Автоматическая оплата заказа {order_number} не прошла, "
+"повторная попытка запланирована на {retry_time}"
+
+#: includes/class-kadence-woomail-settings.php:2879
+msgid "Cancelled order"
+msgstr "Отменённый заказ"
+
+#: includes/class-kadence-woomail-settings.php:2881
+msgid "Congratulations on the sale!"
+msgstr "Поздравляем с продажей!"
+
+#: includes/class-kadence-woomail-settings.php:2882
+msgid "Thanks for using {site_address}!"
+msgstr "Спасибо, что пользуетесь нашим сайтом {site_address}!"
+
+#: includes/class-kadence-woomail-settings.php:2883
+#: includes/class-kwed-cartflows-ca-email.php:134
+msgid "Thanks for shopping with us."
+msgstr "Спасибо за покупку."
+
+#: includes/class-kadence-woomail-settings.php:2884
+msgid "We hope to see you again soon."
+msgstr "Мы надеемся увидеть вас снова в ближайшее время."
+
+#: includes/class-kadence-woomail-settings.php:2885
+msgid "We look forward to fulfilling your order soon."
+msgstr "Ваш заказ будет выполнен в ближайшее время."
+
+#: includes/class-kadence-woomail-settings.php:2886
+msgid "We look forward to seeing you soon."
+msgstr "Надеемся встретиться с Вами в ближайшее время."
+
+#: includes/class-kadence-woomail-settings.php:2887
+msgid "Thanks for reading."
+msgstr "Спасибо за внимание."
+
+#: includes/class-kadence-woomail-settings.php:2889
+msgid "Order {order_number} details"
+msgstr "Детали заказа {order_number}"
+
+#: includes/class-kadence-woomail-settings.php:2890
+msgid "Your order has been partially refunded"
+msgstr "Ваш заказ был частично возвращён"
+
+#: includes/class-kadence-woomail-settings.php:2893
+msgid "Your order details"
+msgstr "Детали вашего заказа"
+
+#: includes/class-kadence-woomail-settings.php:2894
+msgid "Failed order"
+msgstr "Неудавшийся заказ"
+
+#: includes/class-kadence-woomail-settings.php:2895
+msgid "Welcome to {site_title}"
+msgstr "Добро пожаловать на {site_title}"
+
+#: includes/class-kadence-woomail-settings.php:2896
+msgid "A note has been added to your order"
+msgstr "К вашему заказу было добавлено примечание"
+
+#: includes/class-kadence-woomail-settings.php:2897
+msgid "Password reset instructions"
+msgstr "Инструкции по сбросу пароля"
+
+#: includes/class-kadence-woomail-settings.php:2900
+msgid "[{site_title}] Cancelled order ({order_number})"
+msgstr "Отменённый заказ ({order_number}) на [{site_title}]"
+
+#: includes/class-kadence-woomail-settings.php:2903
+msgid "Your {site_title} order from {order_date} has been refunded"
+msgstr "Ваш заказ на {site_title} от {order_date} был возвращён"
+
+#: includes/class-kadence-woomail-settings.php:2904
+msgid "Your {site_title} order from {order_date} has been partially refunded"
+msgstr "Ваш заказ на {site_title} от {order_date} был частично возвращён"
+
+#: includes/class-kadence-woomail-settings.php:2907
+msgid "Your {site_title} order from {order_date}"
+msgstr "Ваш заказ на {site_title} от {order_date}"
+
+#: includes/class-kadence-woomail-settings.php:2908
+msgid "[{site_title}] Failed order ({order_number})"
+msgstr "[{site_title}] Неудавшийся заказ ({order_number})"
+
+#: includes/class-kadence-woomail-settings.php:2909
+msgid "Your account on {site_title}"
+msgstr "Ваш профиль на сайте {site_title}"
+
+#: includes/class-kadence-woomail-settings.php:2910
+msgid "Note added to your {site_title} order from {order_date}"
+msgstr "Добавлена заметка к вашему заказу на {site_title} от {order_date}"
+
+#: includes/class-kadence-woomail-settings.php:2911
+msgid "Password reset for {site_title}"
+msgstr "Сброс пароля для {site_title}"
+
+#: includes/class-kadence-woomail-settings.php:2912
+msgid ""
+"You have received an order from {customer_full_name}. The order is as "
+"follows:"
+msgstr "Вы получили заказ от {customer_full_name}. Детали заказа:"
+
+#: includes/class-kadence-woomail-settings.php:2913
+msgid ""
+"The order {order_number} from {customer_full_name} has been cancelled. The "
+"order was as follows:"
+msgstr ""
+"Заказ {order_number} от {customer_full_name} был отменён. Детали заказа:"
+
+#: includes/class-kadence-woomail-settings.php:2914
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+"Ваш заказ был принят и сейчас находится в обработке. Информация о заказе "
+"приведена ниже:"
+
+#: includes/class-kadence-woomail-settings.php:2915
+msgid ""
+"Hi there. Your recent order on {site_title} has been completed. Your order "
+"details are shown below for your reference:"
+msgstr ""
+"Здравствуйте! Ваш недавний заказ на сайте {site_title} был выполнен. "
+"Информацию о заказе смотрите ниже:"
+
+#: includes/class-kadence-woomail-settings.php:2917
+msgid "Hi there. Your order on {site_title} has been refunded."
+msgstr ""
+"Здравствуйте! Ваш заказ который вы сделали на сайте {site_title} был "
+"возвращён."
+
+#: includes/class-kadence-woomail-settings.php:2918
+msgid "Hi there. Your order on {site_title} has been partially refunded."
+msgstr "Здравствуйте! Ваш заказ на сайте {site_title} был частично возвращён."
+
+#: includes/class-kadence-woomail-settings.php:2919
+msgid ""
+"Your order is on-hold until we confirm payment has been received. Your order "
+"details are shown below for your reference:"
+msgstr ""
+"Ваш заказ на удержании, до тех пор пока мы не получим подтверждение оплаты. "
+"Детали заказа приведены ниже:"
+
+#: includes/class-kadence-woomail-settings.php:2922
+msgid "An order has been created for you on {site_title}. {invoice_pay_link}"
+msgstr "Для вас сформирован заказ на сайте {site_title}. {invoice_pay_link}"
+
+#: includes/class-kadence-woomail-settings.php:2924
+msgid ""
+"Payment for order {order_number} from {customer_full_name} has failed. The "
+"order was as follows:"
+msgstr ""
+"Оплата заказа {order_number} от {customer_full_name}  не удалась. Детали "
+"заказа:"
+
+#: includes/class-kadence-woomail-settings.php:2927
+msgid ""
+"Thanks for creating an account on {site_title}. Your username is "
+"{customer_username}"
+msgstr ""
+"Спасибо за создание учетной записи на сайте {site_title}. Ваше имя "
+"пользователя {customer_username}"
+
+#: includes/class-kadence-woomail-settings.php:2928
+msgid "Hello, a note has just been added to your order:"
+msgstr "Здравствуйте, к вашему заказу была добавлена заметка"
+
+#: includes/class-kadence-woomail-settings.php:2930
+msgid ""
+"Someone requested that the password be reset for the following account:\n"
+"\n"
+"Username: {customer_username}\n"
+"\n"
+"If this was a mistake, just ignore this email and nothing will happen.\n"
+"\n"
+"To reset your password, visit the following address:"
+msgstr ""
+"Кто-то запросил сброс пароля для следующей учетной записи:\n"
+"\n"
+"Имя пользователя: (customer_username)\n"
+"\n"
+"Если это была ошибка, просто проигнорируйте это письмо и ничего не "
+"произойдет.\n"
+"\n"
+"Чтобы сбросить пароль, перейдите по ссылке:"
+
+#: includes/class-kadence-woomail-settings.php:2939
+msgid "Renew your {membership_plan}"
+msgstr "Продлить {membership_plan}"
+
+#: includes/class-kadence-woomail-settings.php:2940
+msgid "Your {site_title} membership has expired"
+msgstr "Членство на сайте {site_title} истекло"
+
+#: includes/class-kadence-woomail-settings.php:2941
+msgid "You can now access {membership_plan}"
+msgstr "Теперь вы можете получить доступ согласно {membership_plan}"
+
+#: includes/class-kadence-woomail-settings.php:2942
+msgid "Your {site_title} membership is now active!"
+msgstr "Членство на сайте {site_title} активно!"
+
+#: includes/class-kadence-woomail-settings.php:2943
+msgid "An update about your {membership_plan}"
+msgstr "Обновленная информация о вашем {membership_plan}"
+
+#: includes/class-kadence-woomail-settings.php:2944
+msgid "Your {site_title} membership ends soon!"
+msgstr "Ваше членство на сайте {site_title} скоро закончится!"
+
+#: includes/class-kadence-woomail-settings.php:2945
+msgid "A note has been added about your membership"
+msgstr "К вашему членству было добавлено примечание"
+
+#: includes/class-kadence-woomail-settings.php:2946
+msgid "Note added to your {site_title} membership"
+msgstr "К вашему членству на сайте [{site_title}] было добавлено примечание"
+
+#: includes/class-kadence-woomail-settings.php:2947
+msgid "You can renew your {membership_plan}"
+msgstr "Вы можете продлить {membership_plan}"
+
+#: includes/class-kadence-woomail-settings.php:2948
+msgid "Renew your {site_title} membership!"
+msgstr "Продление вашего членства на сайте {site_title}!"
+
+#: includes/class-kadence-woomail-settings.php:2949
+#: includes/class-kwed-cartflows-ca-email.php:86
+msgid "Thanks for shopping with us"
+msgstr "Спасибо за покупку"
+
+#: includes/class-kadence-woomail-settings.php:2950
+msgid "Your {site_title} order is now delivered"
+msgstr "Ваш заказ, который вы сделали на сайте {site_title} уже доставлен"
+
+#: includes/class-kadence-woomail-settings.php:2952
+msgid ""
+"Hi {customer_full_name}\n"
+"\t\t\t\t\t\tYour {site_title} order has been marked delivered on our side."
+msgstr ""
+"Здравствуйте, {customer_full_name}\n"
+"\t\t\t\t\t\tВаш заказ, который вы сделали на сайте {site_title} уже "
+"доставлен."
+
+#: includes/class-kadence-woomail-settings.php:3053
+msgctxt "ekomi"
+msgid "Please rate your Order"
+msgstr "Пожалуйста, оцените свой заказ"
+
+#: includes/class-kadence-woomail-settings.php:3054
+msgid "Account activation {site_title}"
+msgstr "Активация учетной записи на сайте {site_title}"
+
+#: includes/class-kadence-woomail-settings.php:3055
+msgid "Payment received"
+msgstr "Оплата успешно получена"
+
+#: includes/class-kadence-woomail-settings.php:3056
+msgid "Your revocation"
+msgstr ""
+
+#: includes/class-kadence-woomail-settings.php:3057
+msgid "SEPA Direct Debit Mandate"
+msgstr ""
+
+#: includes/class-kadence-woomail-settings.php:3058
+msgctxt "trusted-shops"
+msgid "Please rate your Order"
+msgstr "Пожалуйста, оцените свой заказ"
+
+#: includes/class-kadence-woomail-settings.php:3091
+msgid "none"
+msgstr "нет"
+
+#: includes/class-kadence-woomail-settings.php:3092
+msgid "hidden"
+msgstr "скрытое"
+
+#: includes/class-kadence-woomail-settings.php:3093
+msgid "dotted"
+msgstr "точечный пунктир"
+
+#: includes/class-kadence-woomail-settings.php:3094
+msgid "dashed"
+msgstr "пунктир"
+
+#: includes/class-kadence-woomail-settings.php:3095
+msgid "solid"
+msgstr "сплошная линия"
+
+#: includes/class-kadence-woomail-settings.php:3096
+msgid "double"
+msgstr "двойная линия"
+
+#: includes/class-kadence-woomail-settings.php:3097
+msgid "groove"
+msgstr "вдавленная линия"
+
+#: includes/class-kadence-woomail-settings.php:3098
+msgid "ridge"
+msgstr "выпуклая линия"
+
+#: includes/class-kadence-woomail-settings.php:3099
+msgid "inset"
+msgstr ""
+
+#: includes/class-kadence-woomail-settings.php:3100
+msgid "outset"
+msgstr ""
+
+#: includes/class-kadence-woomail-settings.php:3112
+#: includes/class-kadence-woomail-settings.php:3126
+msgid "Left"
+msgstr "Слева"
+
+#: includes/class-kadence-woomail-settings.php:3113
+#: includes/class-kadence-woomail-settings.php:3127
+msgid "Center"
+msgstr "По центру"
+
+#: includes/class-kadence-woomail-settings.php:3114
+#: includes/class-kadence-woomail-settings.php:3128
+msgid "Right"
+msgstr "Справа"
+
+#: includes/class-kadence-woomail-settings.php:3115
+msgid "Justify"
+msgstr "По ширине"
+
+#: includes/class-kadence-woomail-settings.php:3140
+msgid "Mockup Order"
+msgstr "Пример заказа"
+
+#: includes/class-kadence-woomail-woo.php:68
+msgid "Woocommerce Email Designer"
+msgstr "Конструктор писем Woocommerce"
+
+#: includes/class-kadence-woomail-woo.php:99
+msgid "Customize WooCommerce Emails"
+msgstr "Настройка писем WooCommerce"
+
+#: includes/class-kadence-woomail-woo.php:103
+#: includes/class-kadence-woomail-woo.php:104
+msgid "Open Woocommerce Email Designer"
+msgstr "Открыть конструктор писем Woocommerce"
+
+#: includes/class-kadence-woomail-woo.php:107
+#, php-format
+msgid ""
+"Make Woocommerce Emails match your brand. <a href=\"%s\">Kadence Woocommerce "
+"Email Designer</a> plugin by <a href=\"%s\">Kadence Themes</a>."
+msgstr ""
+"Настройте письма Woocommerce, чтобы они полностью соответствовали вашему "
+"бренду. Плагин <a href=\"%s\">Kadence Woocommerce Email Designer</a> от <a "
+"href=\"%s\">Kadence Themes</a>."
+
+#: kadence-woocommerce-email-designer.php:190
+msgid ""
+"Kadence Woocommerce Email Designer requires WooCommerce to be active to work"
+msgstr ""
+"Плагин Kadence Woocommerce Email Designer требует чтобы плагин WooCommerce "
+"был установлен и активен"
+
+#: kadence-woocommerce-email-designer.php:314
+#: kadence-woocommerce-email-designer.php:316
+msgid "Pay for this order"
+msgstr "Оплатить этот заказ"
+
+#: kadence-woocommerce-email-designer.php:327
+#: kadence-woocommerce-email-designer.php:329
+#: kadence-woocommerce-email-designer.php:336
+#: kadence-woocommerce-email-designer.php:338
+#: kadence-woocommerce-email-designer.php:346
+#: kadence-woocommerce-email-designer.php:348
+#: templates/woo/emails/customer-payment-retry.php:46
+msgid "Pay Now &raquo;"
+msgstr "Оплатить сейчас &raquo;"
+
+#: kadence-woocommerce-email-designer.php:387
+#: kadence-woocommerce-email-designer.php:393
+msgid "Guest"
+msgstr "Гость"
+
+#: kadence-woocommerce-email-designer.php:575
+#: kadence-woocommerce-email-designer.php:576
+msgid "Email Customizer"
+msgstr "Настройщик писем"
+
+#: kadence-woocommerce-email-designer.php:590
+msgid "Open Email Designer"
+msgstr "Открыть конструктор писем"
+
+#: preview.php:30
+msgid "Email Designer"
+msgstr "Конструктор писем"
+
+#: templates/wcmp/vendor-new-order.php:28
+msgid ""
+"A new order was received and marked as processing from %s. Their order is as "
+"follows:"
+msgstr "Новый заказ получен и отмечен как выполненный от %s. Детали заказа:"
+
+#: templates/wcmp/vendor-new-order.php:35
+#: templates/woo/emails/email-order-details.php:49
+#: templates/woo/emails/email-order-details.php:96
+#: templates/woo/emails/email-order-details.php:208
+#: templates/woo/emails/email-order-details.php:273
+msgid "Product"
+msgstr "Товар"
+
+#: templates/wcmp/vendor-new-order.php:36
+#: templates/woo/emails/email-order-details.php:97
+#: templates/woo/emails/email-order-details.php:274
+msgid "Quantity"
+msgstr "Количество"
+
+#: templates/wcmp/vendor-new-order.php:37
+msgid "Commission"
+msgstr "Комиссия"
+
+#: templates/wcmp/vendor-new-order.php:67
+msgid "Customer Details"
+msgstr "Информация о покупателе"
+
+#: templates/wcmp/vendor-new-order.php:69
+msgid "Customer Name:"
+msgstr "Имя клиента:"
+
+#: templates/wcmp/vendor-new-order.php:70
+msgid "Email:"
+msgstr "Email:"
+
+#: templates/wcmp/vendor-new-order.php:73
+msgid "Telephone:"
+msgstr "Телефон:"
+
+#: templates/wcmp/vendor-new-order.php:82
+msgid "Billing Address"
+msgstr "Платёжный адрес"
+
+#: templates/wcmp/vendor-new-order.php:95
+msgid "Shipping Address"
+msgstr "Адрес доставки"
+
+#: templates/woo/emails/admin-payment-retry.php:36
+#, php-format
+msgctxt "In customer renewal invoice email"
+msgid ""
+"The automatic recurring payment for order #%d from %s has failed. The "
+"payment will be retried %3$s."
+msgstr ""
+"Автоматический периодический платеж для заказа #%d от %s не удался. Платеж "
+"будет повторен %3$s."
+
+#: templates/woo/emails/admin-payment-retry.php:37
+msgid "The renewal order is as follows:"
+msgstr "Порядок продления заключается в следующем:"
+
+#: templates/woo/emails/cancelled-subscription.php:37
+#: templates/woo/emails/cancelled-subscription.php:74
+#: templates/woo/emails/subscription-info.php:32
+#: templates/woo/emails/subscription-info.php:61
+msgid "Subscription"
+msgstr "Подписка"
+
+#: templates/woo/emails/cancelled-subscription.php:41
+#: templates/woo/emails/subscription-info.php:36
+#: templates/woo/emails/subscription-info.php:64
+msgctxt "table heading"
+msgid "Price"
+msgstr "Цена"
+
+#: templates/woo/emails/cancelled-subscription.php:47
+#: templates/woo/emails/cancelled-subscription.php:76
+msgctxt "table heading"
+msgid "Last Order Date"
+msgstr "Дата последнего заказа"
+
+#: templates/woo/emails/cancelled-subscription.php:54
+#: templates/woo/emails/cancelled-subscription.php:94
+msgid "-"
+msgstr "-"
+
+#: templates/woo/emails/cancelled-subscription.php:60
+msgctxt "table heading"
+msgid "End of Prepaid Term"
+msgstr "Окончание предоплаченных условий"
+
+#: templates/woo/emails/cancelled-subscription.php:75
+msgctxt "table headings in notification email"
+msgid "Price"
+msgstr "Цена"
+
+#: templates/woo/emails/cancelled-subscription.php:77
+msgctxt "table headings in notification email"
+msgid "End of Prepaid Term"
+msgstr "Окончание предоплаченных условий"
+
+#: templates/woo/emails/customer-completed-switch-order.php:34
+msgid "New Subscription Details"
+msgstr "Сведения о новой подписке"
+
+#: templates/woo/emails/customer-new-account.php:41
+#, php-format
+msgid "Your password has been automatically generated: %s"
+msgstr "Ваш пароль был автоматически сгенерирован: %s"
+
+#: templates/woo/emails/customer-new-account.php:47
+msgid ""
+"You can access your account area to view your orders and change your "
+"password."
+msgstr ""
+"Вы можете получить доступ к вашей учетной записи, чтобы просматривать заказы "
+"и изменить пароль."
+
+#: templates/woo/emails/customer-new-account.php:48
+msgid "View Account"
+msgstr "Просмотр учетной записи"
+
+#: templates/woo/emails/customer-new-account.php:51
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+"Вы можете получить доступ к вашей учетной записи, чтобы просматривать заказы "
+"и изменить пароль, здесь: %s."
+
+#: templates/woo/emails/customer-note.php:41
+msgid "For your reference, your order details are shown below."
+msgstr "Для вашего удобства, детали заказа указаны ниже."
+
+#: templates/woo/emails/customer-payment-retry.php:40
+#, php-format
+msgctxt "In customer renewal invoice email"
+msgid ""
+"The automatic payment to renew your subscription with %1$s has failed. We "
+"will retry the payment %2$s."
+msgstr ""
+"Автоматический платеж за продление подписки %1$s не удался. Мы повторим "
+"попытку %2$s."
+
+#: templates/woo/emails/customer-payment-retry.php:45
+msgid ""
+"To reactivate the subscription now, you can also login and pay for the "
+"renewal from your account page:"
+msgstr ""
+"Чтобы повторно активировать подписку сейчас, вы можете войти на сайт и "
+"оплатить продление на своей странице аккаунта."
+
+#: templates/woo/emails/customer-payment-retry.php:52
+#, php-format
+msgctxt "In customer renewal invoice email"
+msgid ""
+"To reactivate the subscription now, you can also login and pay for the "
+"renewal from your account page: %1$sPay Now &raquo;%2$s"
+msgstr ""
+"Чтобы повторно активировать подписку сейчас, вы также можете войти в систему "
+"и оплатить продление с вашей страницы аккаунта: %1$sОплатить сейчас &raquo;"
+"%2$s"
+
+#: templates/woo/emails/customer-reset-password.php:39
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: templates/woo/emails/customer-reset-password.php:44
+msgid "Click here to reset your password"
+msgstr "Нажмите здесь чтобы сбросить свой пароль"
+
+#: templates/woo/emails/email-addresses.php:39
+#: templates/woo/emails/email-addresses.php:89
+msgid "Billing address"
+msgstr "Платёжный адрес"
+
+#: templates/woo/emails/email-addresses.php:45
+#: templates/woo/emails/email-addresses.php:95
+msgid "N/A"
+msgstr "Н/Д"
+
+#: templates/woo/emails/email-addresses.php:68
+#: templates/woo/emails/email-addresses.php:116
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: templates/woo/emails/email-customer-details.php:34
+msgid "Customer details"
+msgstr "Информация о клиенте"
+
+#: templates/woo/emails/email-downloads.php:39
+msgid "Downloads"
+msgstr "Загрузки"
+
+#: templates/woo/emails/email-downloads.php:71
+msgid "Expires:"
+msgstr "Истекает:"
+
+#: templates/woo/emails/email-downloads.php:74
+msgid "Expires: Never"
+msgstr "Истекает: Никогда"
+
+#: templates/woo/emails/email-downloads.php:84
+msgid "Never"
+msgstr "Никогда"
+
+#: templates/woo/emails/email-order-details.php:40
+msgctxt "Used in email notification"
+msgid "Subscription %1$s#%2$s%3$s"
+msgstr "Подписка %1$s#%2$s%3$s"
+
+#: templates/woo/emails/email-order-details.php:50
+#: templates/woo/emails/email-order-details.php:98
+#: templates/woo/emails/email-order-details.php:209
+#: templates/woo/emails/email-order-details.php:275
+msgid "Price"
+msgstr "Цена"
+
+#: templates/woo/emails/email-order-details.php:154
+msgid "Order Details"
+msgstr "Информация о заказе"
+
+#: templates/woo/emails/email-order-details.php:170
+#, php-format
+msgid "Order number: %s"
+msgstr "Номер заказа: %s"
+
+#: templates/woo/emails/email-order-details.php:177
+msgid "Order date:"
+msgstr "Дата заказа:"
+
+#: templates/woo/emails/email-order-details.php:196
+#, php-format
+msgid "Order #%s"
+msgstr "Заказ #%s"
+
+#: templates/woo/emails/email-order-details.php:261
+#: templates/woo/emails/email-order-details.php:335
+msgid "Order Note"
+msgstr "Примечание к заказу"
+
+#: templates/woo/emails/email-order-details.php:313
+msgid "Note:"
+msgstr "Примечание:"
+
+#: templates/woo/emails/email-order-items.php:76
+msgid "Quantity:"
+msgstr "Количество:"
+
+#: templates/woo/emails/subscription-info.php:25
+#: templates/woo/emails/subscription-info.php:56
+msgid "Subscription Information:"
+msgstr "Информация о подписке:"
+
+#: templates/woo/emails/subscription-info.php:33
+#: templates/woo/emails/subscription-info.php:70
+#, php-format
+msgctxt "subscription number in email table. (eg: #106)"
+msgid "#%s"
+msgstr "#%s"
+
+#: templates/woo/emails/subscription-info.php:42
+#: templates/woo/emails/subscription-info.php:62
+msgctxt "table heading"
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: templates/woo/emails/subscription-info.php:46
+#: templates/woo/emails/subscription-info.php:63
+msgctxt "table heading"
+msgid "End Date"
+msgstr "Дата завершения"
+
+#: templates/woo/emails/subscription-info.php:47
+#: templates/woo/emails/subscription-info.php:72
+msgctxt "Used as end date for an indefinite subscription"
+msgid "When Cancelled"
+msgstr "Когда отменено"
+
+#: templates/woo/emails/waitlist-mailout.php:26
+#, php-format
+msgid "%s is now back in stock at %s. "
+msgstr "%s теперь снова в наличии на %s. "
+
+#: templates/woo/emails/waitlist-mailout.php:27
+msgid ""
+"You have been sent this email because your email address was registered on a "
+"waitlist for this product."
+msgstr ""
+"Вам было отправлено это письмо, потому что ваш адрес электронной почты был "
+"зарегистрирован в списке желания для этого товара."
+
+#: templates/woo/emails/waitlist-mailout.php:30
+#, php-format
+msgid "If you would like to purchase %s please visit the following link: %s"
+msgstr ""
+"Если вы хотите приобрести %s, пожалуйста перейдите по следующей ссылке: %s"
+
+#: templates/woo/emails/waitlist-mailout.php:34
+msgid "You have been removed from the waitlist for this product"
+msgstr "Вы были удалены из Списка желания для данного товара"
